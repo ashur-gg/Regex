@@ -1,8 +1,6 @@
 # Example
 # Title : Regex Exploration
-# Desc  : Regex annoying the bejeesus out of us
 # Author: Ashur Baroutta
-# Date  : 6/10/23
 
 
 #  Write an egrep statement that matches any real number
